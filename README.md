@@ -30,7 +30,7 @@
 
 <br/>
 
-## I · About
+## <img src="https://api.iconify.design/lucide/user-round.svg?color=%23C9A227" width="22" align="center" alt=""/> &nbsp;About
 
 <div align="center">
 
@@ -49,7 +49,7 @@ based_in: Bengaluru, India
 
 ---
 
-## II · Tech Stack
+## <img src="https://api.iconify.design/lucide/layers.svg?color=%23C9A227" width="22" align="center" alt=""/> &nbsp;Tech Stack
 
 <div align="center">
 
@@ -95,7 +95,7 @@ based_in: Bengaluru, India
 
 ---
 
-## III · AI / ML Expertise
+## <img src="https://api.iconify.design/lucide/brain-circuit.svg?color=%23C9A227" width="22" align="center" alt=""/> &nbsp;AI / ML Expertise
 
 | Domain | Proficiency | Details |
 |---|:---:|---|
@@ -107,7 +107,7 @@ based_in: Bengaluru, India
 
 ---
 
-## IV · Featured Projects
+## <img src="https://api.iconify.design/lucide/folder-git-2.svg?color=%23C9A227" width="22" align="center" alt=""/> &nbsp;Featured Projects
 
 <details open>
 <summary><b>Phantom — Autonomous AI Trading Agent</b></summary>
@@ -191,7 +191,7 @@ Directed a 4-member team as Team Lead, co-building a transfer-learning pipeline 
 
 ---
 
-## V · Education & Leadership
+## <img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%23C9A227" width="22" align="center" alt=""/> &nbsp;Education & Leadership
 
 **B.E. Artificial Intelligence & Machine Learning**
 RNS Institute of Technology, Bengaluru · Dec 2022 – May 2026 · CGPA: 8.0 / 10
@@ -202,7 +202,7 @@ RNS Institute of Technology, Bengaluru · Dec 2022 – May 2026 · CGPA: 8.0 / 1
 
 ---
 
-## VI · Achievements
+## <img src="https://api.iconify.design/lucide/award.svg?color=%23C9A227" width="22" align="center" alt=""/> &nbsp;Achievements
 
 <div align="center">
 
@@ -217,7 +217,7 @@ RNS Institute of Technology, Bengaluru · Dec 2022 – May 2026 · CGPA: 8.0 / 1
 
 ---
 
-## VII · Certifications
+## <img src="https://api.iconify.design/lucide/badge-check.svg?color=%23C9A227" width="22" align="center" alt=""/> &nbsp;Certifications
 
 <div align="center">
 
@@ -231,7 +231,7 @@ RNS Institute of Technology, Bengaluru · Dec 2022 – May 2026 · CGPA: 8.0 / 1
 
 ---
 
-## VIII · Coding Profile
+## <img src="https://api.iconify.design/lucide/terminal.svg?color=%23C9A227" width="22" align="center" alt=""/> &nbsp;Coding Profile
 
 <div align="center">
 
@@ -242,40 +242,40 @@ RNS Institute of Technology, Bengaluru · Dec 2022 – May 2026 · CGPA: 8.0 / 1
 
 ---
 
-## IX · Analytics
+## <img src="https://api.iconify.design/lucide/chart-column.svg?color=%23C9A227" width="22" align="center" alt=""/> &nbsp;Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Chidhanand07&show_icons=true&theme=radical&hide_border=true&bg_color=0D0221&title_color=D4AF37&icon_color=A78BFA&text_color=E9D5FF" width="49%"/>
+<img src="https://gh-readme-stats.vercel.app/api?username=Chidhanand07&show_icons=true&theme=radical&hide_border=true&bg_color=0D0221&title_color=D4AF37&icon_color=A78BFA&text_color=E9D5FF" width="49%"/>
 <img src="https://streak-stats.demolab.com/?user=Chidhanand07&theme=radical&hide_border=true&background=0D0221&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chidhanand07&layout=compact&theme=radical&hide_border=true&bg_color=0D0221&title_color=D4AF37&text_color=E9D5FF" width="49%"/>
+<img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=Chidhanand07&layout=compact&theme=radical&hide_border=true&bg_color=0D0221&title_color=D4AF37&text_color=E9D5FF" width="49%"/>
 
 </div>
 
 ---
 
-## X · Trophies
+## <img src="https://api.iconify.design/lucide/trophy.svg?color=%23C9A227" width="22" align="center" alt=""/> &nbsp;Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Chidhanand07&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1" />
+<img src="https://github-trophies.vercel.app/?username=Chidhanand07&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1" />
 
 </div>
 
 ---
 
-## XI · Contribution Activity
+## <img src="https://api.iconify.design/lucide/activity.svg?color=%23C9A227" width="22" align="center" alt=""/> &nbsp;Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chidhanand07&theme=react-dark&hide_border=true&bg_color=0D0221&color=D4AF37&line=8B5CF6&point=E9D5FF" width="100%"/>
+<img src="https://ghchart.rshah.org/8B5CF6/Chidhanand07" width="100%" alt="Chidanandh's contribution chart"/>
 
 </div>
 
 ---
 
-## XII · Contribution Graph
+## <img src="https://api.iconify.design/lucide/calendar-days.svg?color=%23C9A227" width="22" align="center" alt=""/> &nbsp;Contribution Graph
 
 <div align="center">
 
@@ -291,7 +291,7 @@ RNS Institute of Technology, Bengaluru · Dec 2022 – May 2026 · CGPA: 8.0 / 1
 
 ---
 
-## XIII · Current Focus
+## <img src="https://api.iconify.design/lucide/target.svg?color=%23C9A227" width="22" align="center" alt=""/> &nbsp;Current Focus
 
 ```yaml
 learning:
@@ -311,7 +311,7 @@ open_to:
 
 ---
 
-## XIV · Connect
+## <img src="https://api.iconify.design/lucide/link-2.svg?color=%23C9A227" width="22" align="center" alt=""/> &nbsp;Connect
 
 <div align="center">
 
