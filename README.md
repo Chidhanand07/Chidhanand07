@@ -283,12 +283,6 @@ RNS Institute of Technology, Bengaluru · Dec 2022 – May 2026 · CGPA: 8.0 / 1
 
 </div>
 
-<div align="center">
-
-<sub>Renders once the <a href="https://github.com/Platane/snk">snake workflow</a> is added to the <code>Chidhanand07/Chidhanand07</code> repository.</sub>
-
-</div>
-
 ---
 
 ## <img src="https://api.iconify.design/lucide/target.svg?color=%23C9A227" width="22" align="center" alt=""/> &nbsp;Current Focus
